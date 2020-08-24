@@ -1,7 +1,9 @@
 {
   "name": "@donmahallem/json-schema-action",
   "version": "0.0.0",
-  "scripts": {},
+  "scripts": {
+    "build": "ncc build src/index.ts -o dist"
+  },
   "publishConfig": {
     "access": "restricted"
   },
