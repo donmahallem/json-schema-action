@@ -1,0 +1,28 @@
+{
+  "name": "@donmahallem/json-schema-action",
+  "version": "0.0.0",
+  "scripts": {},
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "private": true,
+  "homepage": "https://donmahallem.github.io/json-schema-action/",
+  "author": {
+    "name": "donmahallem",
+    "email": "donmahallem@users.noreply.github.com",
+    "url": "https://github.com/donmahallem"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/donmahallem/json-schema-action/issues"
+  },
+  "files": [
+    "dist/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donmahallem/json-schema-action.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
