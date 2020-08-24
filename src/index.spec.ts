@@ -7,7 +7,7 @@ import 'mocha';
 import * as index from './index';
 
 describe('index', (): void => {
-    it('should contain FlowApiValidator', (): void => {
-        expect(index).to.not.equal(undefined);
+    it('should export the BUILD_VERSION', (): void => {
+        expect(index.VERSION).to.equal('__BUILD_VERSION__');
     });
 });

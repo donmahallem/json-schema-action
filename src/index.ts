@@ -3,3 +3,4 @@
  */
 
 console.log('placeholder');
+export const VERSION: string = '__BUILD_VERSION__';
