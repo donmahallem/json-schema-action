@@ -24,5 +24,7 @@
     "url": "https://github.com/donmahallem/json-schema-action.git"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@zeit/ncc": "~0.22.3"
+  }
 }
