@@ -33,7 +33,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/chai": "4.2.20",
-    "@types/mocha": "8.2.2",
+    "@types/mocha": "8.2.3",
     "@types/node": "14.17.4",
     "@vercel/ncc": "0.28.6",
     "chai": "4.3.4",
