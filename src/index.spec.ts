@@ -1,5 +1,6 @@
-/*!
- * Source https://github.com/donmahallem/json-schema-action
+/*
+ * Package @donmahallem/json-schema-action
+ * Source https://donmahallem.github.io/json-schema-action/
  */
 
 import { expect } from 'chai';
