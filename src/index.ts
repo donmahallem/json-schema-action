@@ -1,6 +1,7 @@
-/*!
- * Source https://github.com/donmahallem/json-schema-action
+/*
+ * Package @donmahallem/json-schema-action
+ * Source https://donmahallem.github.io/json-schema-action/
  */
 
 console.log('placeholder');
-export const VERSION: string = '__BUILD_VERSION__';
+export const VERSION = '__BUILD_VERSION__';
